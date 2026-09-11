@@ -1,0 +1,38 @@
+{
+  "title": "__TITLE__",
+  "description": "__DESCRIPTION__",
+  "author": "__AUTHOR__",
+  "category": "__CATEGORY__",
+  "modules": [
+    {
+      "name": "__CORE_MODULE_NAME__",
+      "description": "__MODULE_DESCRIPTION__",
+      "content": "__CORE_CONTENT__",
+      "isCore": true
+    },
+    {
+      "name": "__MODULE_NAME__",
+      "description": "__MODULE_DESCRIPTION__",
+      "content": "__MODULE_CONTENT__",
+      "isCore": false
+    }
+  ],
+  "recommendations": {
+    "temperature": 0.0,
+    "maxTokens": 0,
+    "contextTokens": 0,
+    "custom": "__CUSTOM__",
+    "models": [
+      "__MODELS__"
+    ]
+  },
+  "tags": [
+    "__TAGS__"
+  ],
+  "anyModel": true,
+  "meta": {
+    "source": "LoreBary",
+    "version": "1.0",
+    "exportedAt": "__EXPORTEDAT__"
+  }
+}
