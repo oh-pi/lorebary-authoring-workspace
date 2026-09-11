@@ -1,8 +1,0 @@
-# __TITLE__
-
-Author: __AUTHOR__
-Category: __CATEGORY__
-Tags: __TAG_1__, __TAG_2__
-
-## Content
-__MODULE_CONTENT__
