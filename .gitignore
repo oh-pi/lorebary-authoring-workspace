@@ -29,3 +29,8 @@ __pycache__/
 *.pyc
 .vscode/
 .idea/
+
+# Private rescan evidence and historical source/template snapshots.
+/Core/Authoring/Workspace/Rescans/
+/Core/Authoring/Workspace/CHANGELOG.md
+/Core/Authoring/Tools/

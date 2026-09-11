@@ -69,3 +69,7 @@ A request for a suite does **not** authorize reusing existing content. That requ
 The `.gitignore` excludes Reference contents, Generated sets, local approvals, private format notes, and credentials while retaining empty folder placeholders. Before every public push, review `git status` and `git diff --cached`. Git ignore rules do not protect already tracked files or override deliberate `git add -f`.
 
 Contribute reusable formatting improvements and blank templates, not private projects or downloaded creative material. See [CONTRIBUTING.md](CONTRIBUTING.md). Maintain category boundaries and preserve observed/documented/uncertain distinctions. Never imply that a template is officially approved or that an import passed without an actual test.
+
+## Asset filenames
+
+Use `example_plugin.json`, `example_lorebook.json`, `example_scenario.json`, `example_character.json`, `example_persona.json`, and `example_prompt.json` for the corresponding generated asset categories. Use the same suffix before `.txt` for text or `.png` for properly packaged supported cards. Keep each delivery in a named Generated set folder. Do not rename your reference files merely to match this convention. Blank templates also include the category suffix; `.fragment.json` denotes a partial block/value, not a standalone import.

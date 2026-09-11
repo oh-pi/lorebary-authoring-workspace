@@ -17,3 +17,7 @@ Validate JSON syntax and applicable nested JSON strings, selected field shapes a
 For a shared copy, use the included category rules and blank templates without requiring the original author’s references or evidence indexes. Users should create their own content in LoreBary, download its exports, and place them in the matching `Core/<Category>/Reference/` folders when they want to confirm or extend a format. New references remain formatting-only evidence; do not rebuild established rules unless requested or a specific discrepancy requires review. See `Core/Authoring/README.md` for the rules-only sharing boundaries.
 
 Read root `legal.md` before using external services. The repository is unofficial. Do not suggest bypassing provider rules or imply a guarantee against account restrictions. Keep user references, generated sets, local approvals and evidence notes out of public commits. The `.gitignore` is a convenience, not an access-control boundary.
+
+## Asset filenames
+
+Use `example_plugin.json`, `example_lorebook.json`, `example_scenario.json`, `example_character.json`, `example_persona.json`, and `example_prompt.json` for the corresponding generated asset categories. Use the same suffix before `.txt` for text or `.png` for properly packaged supported cards. Keep each delivery in a named Generated set folder. Do not rename your reference files merely to match this convention. Blank templates also include the category suffix; `.fragment.json` denotes a partial block/value, not a standalone import.
