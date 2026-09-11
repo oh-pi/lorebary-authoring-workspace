@@ -1,0 +1,16 @@
+{
+  "uid": 0,
+  "key": [
+    "__KEY__"
+  ],
+  "keysecondary": [],
+  "comment": "__COMMENT__",
+  "content": "__CONTENT__",
+  "constant": false,
+  "selective": false,
+  "disable": false,
+  "order": 120,
+  "position": 0,
+  "category": "",
+  "keyMatchMode": "any"
+}
