@@ -1,0 +1,82 @@
+{
+  "summary": "__SUMMARY__",
+  "traits": [
+    "__TRAITS_ITEM__"
+  ],
+  "quirks": "__QUIRKS__",
+  "spectrums": {
+    "social": 0,
+    "approach": 0,
+    "emotion": 0,
+    "morality": 0,
+    "trust": 0,
+    "nature": 0,
+    "intellect": 0,
+    "energy": 0
+  },
+  "strengths": [
+    "__STRENGTHS_ITEM__"
+  ],
+  "flaws": [
+    "__FLAWS_ITEM__"
+  ],
+  "values": [
+    "__VALUES_ITEM__"
+  ],
+  "fears": [
+    "__FEARS_ITEM__"
+  ],
+  "motivations": "__MOTIVATIONS__",
+  "speechPatterns": "__SPEECHPATTERNS__",
+  "habits": "__HABITS__",
+  "socialBehavior": "__SOCIALBEHAVIOR__",
+  "stressResponse": "__STRESSRESPONSE__",
+  "bodyLanguage": "__BODYLANGUAGE__",
+  "hobbies": "__HOBBIES__",
+  "wishes": [
+    "__WISHES_ITEM__"
+  ],
+  "secrets": [
+    "__SECRETS_ITEM__"
+  ],
+  "petPeeves": [
+    "__PETPEEVES_ITEM__"
+  ],
+  "guiltyPleasures": [
+    "__GUILTYPLEASURES_ITEM__"
+  ],
+  "coreBeliefs": [
+    "__COREBELIEFS_ITEM__"
+  ],
+  "emotionalTriggers": [
+    "__EMOTIONALTRIGGERS_ITEM__"
+  ],
+  "copingMechanisms": [
+    "__COPINGMECHANISMS_ITEM__"
+  ],
+  "lifeGoals": "__LIFEGOALS__",
+  "shortTermGoals": "__SHORTTERMGOALS__",
+  "sexuality": {
+    "orientation": "__ORIENTATION__",
+    "romanticOrientation": "__ROMANTICORIENTATION__",
+    "relationshipStyle": "__RELATIONSHIPSTYLE__",
+    "libido": "__LIBIDO__",
+    "position": "__POSITION__",
+    "experience": "__EXPERIENCE__",
+    "kinks": [
+      "__KINKS_ITEM__"
+    ],
+    "turnOns": [
+      "__TURNONS_ITEM__"
+    ],
+    "turnOffs": [
+      "__TURNOFFS_ITEM__"
+    ],
+    "boundaries": "__BOUNDARIES__",
+    "notes": "__NOTES__"
+  },
+  "careerGoals": "__CAREERGOALS__",
+  "personalGrowth": "__PERSONALGROWTH__",
+  "relationshipGoals": "__RELATIONSHIPGOALS__",
+  "unfinishedBusiness": "__UNFINISHEDBUSINESS__"
+}

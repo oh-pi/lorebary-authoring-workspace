@@ -1,0 +1,71 @@
+{
+  "spec": "chara_card_v2",
+  "spec_version": "2.0",
+  "data": {
+    "name": "__NAME__",
+    "description": "__DESCRIPTION__",
+    "personality": "{\"summary\":\"__SUMMARY__\",\"traits\":[],\"quirks\":\"\",\"spectrums\":{\"social\":50,\"approach\":50,\"emotion\":50,\"morality\":50,\"trust\":50,\"nature\":50,\"intellect\":50,\"energy\":50},\"strengths\":[],\"flaws\":[],\"values\":[],\"fears\":[],\"motivations\":\"\",\"speechPatterns\":\"\",\"habits\":\"\",\"socialBehavior\":\"\",\"stressResponse\":\"\",\"bodyLanguage\":\"\",\"hobbies\":\"\",\"wishes\":[],\"secrets\":[],\"petPeeves\":[],\"guiltyPleasures\":[],\"coreBeliefs\":[],\"emotionalTriggers\":[],\"copingMechanisms\":[],\"lifeGoals\":\"\",\"shortTermGoals\":\"\",\"sexuality\":{\"orientation\":\"\",\"romanticOrientation\":\"\",\"relationshipStyle\":\"\",\"libido\":\"\",\"position\":\"\",\"experience\":\"\",\"kinks\":[],\"turnOns\":[],\"turnOffs\":[],\"boundaries\":\"\",\"notes\":\"\"}}",
+    "scenario": "",
+    "first_mes": "__FIRST_MES__",
+    "mes_example": "{{user}}: __USER_LINE__\n{{char}}: __CHARACTER_LINE__",
+    "creator": "__CREATOR__",
+    "creator_notes": "",
+    "character_version": "__CHARACTER_VERSION__",
+    "tags": [],
+    "system_prompt": "",
+    "post_history_instructions": "",
+    "alternate_greetings": [],
+    "character_book": null,
+    "extensions": {
+      "lorebary": {
+        "source": "LoreBary",
+        "code": "__CODE__",
+        "downloadedAt": "__DOWNLOADEDAT__",
+        "appearance": "【Other】\n__APPEARANCE__",
+        "background": {
+          "origin": {
+            "birthplace": "",
+            "nationality": "",
+            "ethnicity": "",
+            "culture": "",
+            "socialClass": ""
+          },
+          "residence": {
+            "currentLocation": "",
+            "livingConditions": "",
+            "neighborhood": ""
+          },
+          "history": {
+            "childhood": "",
+            "education": "",
+            "career": "",
+            "majorEvents": []
+          },
+          "traumas": {
+            "hasTraumas": false,
+            "experiences": [],
+            "triggers": [],
+            "copingMechanisms": ""
+          },
+          "criminal": {
+            "hasRecord": false,
+            "offenses": [],
+            "incarcerations": "",
+            "currentStatus": ""
+          },
+          "social": {
+            "affiliations": [],
+            "politicalViews": "",
+            "religiousBeliefs": "",
+            "socialCircle": ""
+          },
+          "backstory": "__BACKSTORY__"
+        },
+        "relationships": [],
+        "gender": "__GENDER__",
+        "age": null,
+        "chatName": null
+      }
+    }
+  }
+}

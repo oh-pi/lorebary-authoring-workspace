@@ -1,0 +1,180 @@
+{
+  "code": "__CODE__",
+  "folderId": "__FOLDERID__",
+  "name": "__NAME__",
+  "author": "__AUTHOR__",
+  "authorIsFeatured": false,
+  "authorIsOriginUser": false,
+  "authorIsStaff": false,
+  "authorIsAdmin": false,
+  "authorIsMod": false,
+  "authorIsCommunityMod": false,
+  "authorIsHonoraryGuardian": false,
+  "authorIsChildOfReforge": false,
+  "authorIsChildOfFirstForge": false,
+  "authorIsRelicMaker": false,
+  "authorIsDonatorMonthly": false,
+  "authorIsDonatorSingle": false,
+  "authorIsBetaTester": false,
+  "authorIsLegalAngel": false,
+  "authorDisplayedBadges": [
+    "__AUTHORDISPLAYEDBADGES__"
+  ],
+  "gender": "__GENDER__",
+  "tagline": null,
+  "description": "__DESCRIPTION__",
+  "createdAt": "__CREATEDAT__",
+  "updatedAt": "__UPDATEDAT__",
+  "coverImage": "__IMAGE_DATA_URI__",
+  "hasCoverImage": false,
+  "rating": null,
+  "ratingCount": 0,
+  "views": 0,
+  "downloads": 0,
+  "featured": false,
+  "isNSFW": false,
+  "hasContentWarning": false,
+  "contentWarningDetails": "",
+  "isPrivate": false,
+  "tags": [
+    "__TAGS__"
+  ],
+  "isPublic": false,
+  "_loading": false,
+  "chatName": null,
+  "age": null,
+  "likes": 0,
+  "constantTokens": 0,
+  "aiAssist": {
+    "level": "__LEVEL__",
+    "method": "__METHOD__",
+    "editedAfterForge": false
+  },
+  "allowDownloads": false,
+  "showDetails": false,
+  "appearance": "__APPEARANCE__",
+  "personality": {
+    "summary": "",
+    "traits": [
+      "__TRAITS__"
+    ],
+    "quirks": "",
+    "spectrums": {
+      "social": 50,
+      "approach": 50,
+      "emotion": 50,
+      "morality": 50,
+      "trust": 50,
+      "nature": 50,
+      "intellect": 50,
+      "energy": 50
+    },
+    "strengths": [
+      "__STRENGTHS__"
+    ],
+    "flaws": [
+      "__FLAWS__"
+    ],
+    "values": [],
+    "fears": [],
+    "motivations": "",
+    "speechPatterns": "",
+    "habits": "",
+    "socialBehavior": "",
+    "stressResponse": "",
+    "bodyLanguage": "",
+    "hobbies": "",
+    "wishes": [],
+    "secrets": [],
+    "petPeeves": [],
+    "guiltyPleasures": [
+      "__GUILTYPLEASURES__"
+    ],
+    "coreBeliefs": [],
+    "emotionalTriggers": [],
+    "copingMechanisms": [],
+    "lifeGoals": "",
+    "shortTermGoals": "",
+    "sexuality": {
+      "orientation": "",
+      "romanticOrientation": "",
+      "relationshipStyle": "",
+      "libido": "",
+      "position": "",
+      "experience": "",
+      "kinks": [],
+      "turnOns": [],
+      "turnOffs": [],
+      "boundaries": "",
+      "notes": ""
+    }
+  },
+  "background": {
+    "origin": {
+      "birthplace": "",
+      "nationality": "",
+      "ethnicity": "",
+      "culture": "",
+      "socialClass": ""
+    },
+    "residence": {
+      "currentLocation": "",
+      "livingConditions": "",
+      "neighborhood": ""
+    },
+    "history": {
+      "childhood": "",
+      "education": "",
+      "career": "",
+      "majorEvents": []
+    },
+    "traumas": {
+      "hasTraumas": false,
+      "experiences": [],
+      "triggers": [],
+      "copingMechanisms": ""
+    },
+    "criminal": {
+      "hasRecord": false,
+      "offenses": [],
+      "incarcerations": "",
+      "currentStatus": ""
+    },
+    "social": {
+      "affiliations": [],
+      "politicalViews": "",
+      "religiousBeliefs": "",
+      "socialCircle": ""
+    },
+    "backstory": ""
+  },
+  "scenario": {
+    "enabled": false,
+    "content": ""
+  },
+  "initialMessages": [
+    {
+      "id": "__ID__",
+      "content": "__CONTENT__",
+      "isEnabled": true
+    }
+  ],
+  "exampleDialogs": [
+    {
+      "id": "__ID__",
+      "userMessage": "__USERMESSAGE__",
+      "characterResponse": "__CHARACTERRESPONSE__"
+    }
+  ],
+  "relationships": [
+    {
+      "id": "__ID__",
+      "name": "__NAME__",
+      "type": "father",
+      "status": "__STATUS__",
+      "description": "__DESCRIPTION__"
+    }
+  ],
+  "_fullLoaded": false,
+  "_detailTimestamp": 0
+}

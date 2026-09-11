@@ -1,0 +1,17 @@
+【Face】
+__FACE__
+
+【Eyes】
+__EYES__
+
+【Hair】
+__HAIR__
+
+【Body】
+__BODY__
+
+【Attire】
+__ATTIRE__
+
+【Footwear】
+__FOOTWEAR__

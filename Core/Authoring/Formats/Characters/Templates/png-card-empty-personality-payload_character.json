@@ -1,0 +1,147 @@
+{
+  "spec": "chara_card_v2",
+  "spec_version": "2.0",
+  "data": {
+    "name": "__NAME__",
+    "description": "__DESCRIPTION__",
+    "personality": "",
+    "first_mes": "__FIRST_MES__",
+    "mes_example": "__MES_EXAMPLE__",
+    "scenario": "__SCENARIO__",
+    "creator_notes": "",
+    "system_prompt": "",
+    "post_history_instructions": "",
+    "alternate_greetings": [
+      "__ALTERNATE_GREETINGS_ITEM__"
+    ],
+    "tags": [
+      "__TAGS_ITEM__"
+    ],
+    "creator": "__CREATOR__",
+    "character_version": "__CHARACTER_VERSION__",
+    "extensions": {
+      "lorebary": {
+        "code": "__CODE__",
+        "meta": {},
+        "appearance": "",
+        "personality": {
+          "summary": "",
+          "traits": [],
+          "quirks": "",
+          "spectrums": {
+            "social": 0,
+            "approach": 0,
+            "emotion": 0,
+            "morality": 0,
+            "trust": 0,
+            "nature": 0,
+            "intellect": 0,
+            "energy": 0
+          },
+          "strengths": [],
+          "flaws": [],
+          "values": [],
+          "fears": [],
+          "motivations": "",
+          "speechPatterns": "",
+          "habits": "",
+          "socialBehavior": "",
+          "stressResponse": "",
+          "bodyLanguage": "",
+          "hobbies": "",
+          "wishes": [],
+          "secrets": [],
+          "petPeeves": [],
+          "guiltyPleasures": [],
+          "coreBeliefs": [],
+          "emotionalTriggers": [],
+          "copingMechanisms": [],
+          "lifeGoals": "",
+          "shortTermGoals": "",
+          "sexuality": {
+            "orientation": "",
+            "romanticOrientation": "",
+            "relationshipStyle": "",
+            "libido": "",
+            "position": "",
+            "experience": "",
+            "kinks": [],
+            "turnOns": [],
+            "turnOffs": [],
+            "boundaries": "",
+            "notes": ""
+          }
+        },
+        "background": {
+          "origin": {
+            "birthplace": "",
+            "nationality": "",
+            "ethnicity": "",
+            "culture": "",
+            "socialClass": ""
+          },
+          "residence": {
+            "currentLocation": "",
+            "livingConditions": "",
+            "neighborhood": ""
+          },
+          "history": {
+            "childhood": "",
+            "education": "",
+            "career": "",
+            "majorEvents": []
+          },
+          "traumas": {
+            "hasTraumas": false,
+            "experiences": [],
+            "triggers": [],
+            "copingMechanisms": ""
+          },
+          "criminal": {
+            "hasRecord": false,
+            "offenses": [],
+            "incarcerations": "",
+            "currentStatus": ""
+          },
+          "social": {
+            "affiliations": [],
+            "politicalViews": "",
+            "religiousBeliefs": "",
+            "socialCircle": ""
+          },
+          "backstory": ""
+        },
+        "scenario": {
+          "enabled": false,
+          "content": "__CONTENT__"
+        },
+        "relationships": [
+          {
+            "name": "__NAME__",
+            "type": "__TYPE__",
+            "customType": "",
+            "status": "__STATUS__",
+            "age": "__AGE__",
+            "notes": "__NOTES__",
+            "description": "",
+            "id": "__ID__"
+          }
+        ],
+        "exampleDialogs": [
+          {
+            "id": "__ID__",
+            "userMessage": "__USERMESSAGE__",
+            "characterResponse": "__CHARACTERRESPONSE__"
+          }
+        ],
+        "initialMessages": [
+          {
+            "id": "__ID__",
+            "content": "__CONTENT__",
+            "isEnabled": false
+          }
+        ]
+      }
+    }
+  }
+}

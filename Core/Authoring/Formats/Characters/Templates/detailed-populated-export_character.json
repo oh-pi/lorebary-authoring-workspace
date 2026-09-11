@@ -1,0 +1,204 @@
+{
+  "code": "__CODE__",
+  "folderId": null,
+  "name": "__NAME__",
+  "author": "__AUTHOR__",
+  "authorIsFeatured": false,
+  "authorIsOriginUser": false,
+  "authorIsStaff": false,
+  "authorIsAdmin": false,
+  "authorIsMod": false,
+  "authorIsCommunityMod": false,
+  "authorIsHonoraryGuardian": false,
+  "authorIsChildOfReforge": false,
+  "authorIsChildOfFirstForge": false,
+  "authorIsRelicMaker": false,
+  "authorIsDonatorMonthly": false,
+  "authorIsDonatorSingle": false,
+  "authorIsBetaTester": false,
+  "authorIsLegalAngel": false,
+  "authorDisplayedBadges": [
+    "__AUTHORDISPLAYEDBADGES_ITEM__"
+  ],
+  "gender": "__GENDER__",
+  "tagline": null,
+  "description": "__DESCRIPTION__",
+  "createdAt": "__CREATEDAT__",
+  "updatedAt": "__UPDATEDAT__",
+  "coverImage": "__COVERIMAGE__",
+  "hasCoverImage": false,
+  "rating": null,
+  "ratingCount": 0,
+  "views": 0,
+  "downloads": 0,
+  "featured": false,
+  "isNSFW": false,
+  "hasContentWarning": false,
+  "contentWarningDetails": "",
+  "isPrivate": false,
+  "tags": [
+    "__TAGS_ITEM__"
+  ],
+  "isPublic": false,
+  "_loading": false,
+  "chatName": "__CHATNAME__",
+  "age": "__AGE__",
+  "likes": 0,
+  "constantTokens": 0,
+  "aiAssist": {
+    "level": "__LEVEL__",
+    "method": "__METHOD__",
+    "editedAfterForge": false
+  },
+  "allowDownloads": false,
+  "showDetails": false,
+  "appearance": "__APPEARANCE__",
+  "personality": {
+    "summary": "__SUMMARY__",
+    "traits": [
+      "__TRAITS_ITEM__"
+    ],
+    "quirks": "__QUIRKS__",
+    "spectrums": {
+      "social": 0,
+      "approach": 0,
+      "emotion": 0,
+      "morality": 0,
+      "trust": 0,
+      "nature": 0,
+      "intellect": 0,
+      "energy": 0
+    },
+    "strengths": [
+      "__STRENGTHS_ITEM__"
+    ],
+    "flaws": [
+      "__FLAWS_ITEM__"
+    ],
+    "values": [
+      "__VALUES_ITEM__"
+    ],
+    "fears": [
+      "__FEARS_ITEM__"
+    ],
+    "motivations": "__MOTIVATIONS__",
+    "speechPatterns": "",
+    "habits": "",
+    "socialBehavior": "",
+    "stressResponse": "",
+    "bodyLanguage": "",
+    "hobbies": "",
+    "wishes": [
+      "__WISHES_ITEM__"
+    ],
+    "secrets": [
+      "__SECRETS_ITEM__"
+    ],
+    "petPeeves": [
+      "__PETPEEVES_ITEM__"
+    ],
+    "guiltyPleasures": [
+      "__GUILTYPLEASURES_ITEM__"
+    ],
+    "coreBeliefs": [
+      "__COREBELIEFS_ITEM__"
+    ],
+    "emotionalTriggers": [
+      "__EMOTIONALTRIGGERS_ITEM__"
+    ],
+    "copingMechanisms": [
+      "__COPINGMECHANISMS_ITEM__"
+    ],
+    "lifeGoals": "__LIFEGOALS__",
+    "shortTermGoals": "__SHORTTERMGOALS__",
+    "sexuality": {
+      "orientation": "__ORIENTATION__",
+      "romanticOrientation": "__ROMANTICORIENTATION__",
+      "position": "__POSITION__",
+      "experience": "__EXPERIENCE__",
+      "kinks": [
+        "__KINKS_ITEM__"
+      ],
+      "turnOns": [
+        "__TURNONS_ITEM__"
+      ],
+      "turnOffs": [
+        "__TURNOFFS_ITEM__"
+      ],
+      "boundaries": "__BOUNDARIES__",
+      "notes": "__NOTES__"
+    }
+  },
+  "background": {
+    "origin": {
+      "birthplace": "__BIRTHPLACE__",
+      "nationality": "__NATIONALITY__",
+      "ethnicity": "__ETHNICITY__",
+      "culture": "__CULTURE__",
+      "socialClass": "__SOCIALCLASS__"
+    },
+    "residence": {
+      "currentLocation": "__CURRENTLOCATION__",
+      "livingConditions": "__LIVINGCONDITIONS__",
+      "neighborhood": "__NEIGHBORHOOD__"
+    },
+    "history": {
+      "childhood": "__CHILDHOOD__",
+      "education": "__EDUCATION__",
+      "career": "__CAREER__",
+      "majorEvents": [
+        "__MAJOREVENTS_ITEM__"
+      ]
+    },
+    "traumas": {
+      "hasTraumas": false,
+      "experiences": [],
+      "triggers": [],
+      "copingMechanisms": "__COPINGMECHANISMS__"
+    },
+    "criminal": {
+      "hasRecord": false,
+      "offenses": [],
+      "incarcerations": "__INCARCERATIONS__",
+      "currentStatus": "__CURRENTSTATUS__"
+    },
+    "social": {
+      "affiliations": [
+        "__AFFILIATIONS_ITEM__"
+      ],
+      "politicalViews": "__POLITICALVIEWS__",
+      "religiousBeliefs": "__RELIGIOUSBELIEFS__",
+      "socialCircle": "__SOCIALCIRCLE__"
+    },
+    "backstory": "__BACKSTORY__"
+  },
+  "scenario": {
+    "enabled": false,
+    "content": "__CONTENT__"
+  },
+  "initialMessages": [
+    {
+      "id": "__ID__",
+      "content": "__CONTENT__",
+      "isEnabled": false
+    }
+  ],
+  "exampleDialogs": [
+    {
+      "id": "__ID__",
+      "userMessage": "__USERMESSAGE__",
+      "characterResponse": "__CHARACTERRESPONSE__"
+    }
+  ],
+  "relationships": [
+    {
+      "id": "__ID__",
+      "name": "__NAME__",
+      "type": "__TYPE__",
+      "status": "__STATUS__",
+      "description": "__DESCRIPTION__"
+    }
+  ],
+  "_fullLoaded": false,
+  "_detailTimestamp": 0
+}
