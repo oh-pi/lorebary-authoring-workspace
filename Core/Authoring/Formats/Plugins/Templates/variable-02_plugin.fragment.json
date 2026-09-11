@@ -1,0 +1,6 @@
+{
+  "name": "__NAME__",
+  "type": "string",
+  "defaultValue": "__DEFAULTVALUE__",
+  "persistent": true
+}
