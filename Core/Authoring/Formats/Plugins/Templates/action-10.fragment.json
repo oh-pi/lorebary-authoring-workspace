@@ -1,0 +1,8 @@
+{
+  "type": "add_message",
+  "role": "system",
+  "pool": [
+    "__POOL__"
+  ],
+  "append": false
+}

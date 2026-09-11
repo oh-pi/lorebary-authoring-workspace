@@ -1,0 +1,57 @@
+{
+  "uid": 1,
+  "name": "__NAME__",
+  "comment": "",
+  "order": 1,
+  "triggerGroups": [
+    {
+      "type": "always",
+      "chance": 3,
+      "keywords": [],
+      "keywordTarget": "user",
+      "regex": "",
+      "regexTarget": "user",
+      "timeMode": "exact",
+      "timeHour": 0,
+      "timeMinute": 0,
+      "timeHourEnd": 0,
+      "timeMinuteEnd": 0,
+      "dateMode": "exact",
+      "dateDay": 1,
+      "dateMonth": 1,
+      "dateDayEnd": 1,
+      "dateMonthEnd": 1,
+      "messageCountOperator": ">",
+      "messageCountValue": 10,
+      "messageCountInterval": 5,
+      "variableName": "",
+      "variableOperator": "==",
+      "variableValue": "",
+      "variableValueMin": "",
+      "variableValueMax": "",
+      "switchName": "",
+      "switchState": true,
+      "agentId": "",
+      "agentMatch": "yes",
+      "agentValue": "",
+      "messageLengthOperator": ">",
+      "messageLengthValue": 100,
+      "messageLengthTarget": "user"
+    }
+  ],
+  "triggerLogic": "OR",
+  "actionLogic": "AND",
+  "actions": {
+    "default": [
+      {
+        "type": "add_message",
+        "role": "user",
+        "append": true,
+        "pool": [
+          "__POOL__"
+        ]
+      }
+    ]
+  },
+  "advancedCode": ""
+}
