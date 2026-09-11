@@ -1,0 +1,31 @@
+# Keep user reference material and generated projects local.
+/Core/*/Reference/*
+!/Core/*/Reference/.gitkeep
+/Core/*/Generated/*
+!/Core/*/Generated/.gitkeep
+/Core/Suites/GENERATED/*
+!/Core/Suites/GENERATED/.gitkeep
+
+# Local approvals, reference-derived evidence and publication working copies.
+/Core/Authoring/Workspace/APPROVALS.md
+/Core/Authoring/Workspace/reference-inventory.json
+/Core/Authoring/Workspace/template-register.json
+/Core/Authoring/Workspace/validation.json
+/Core/Authoring/Workspace/SUPPLEMENTAL-SOURCES.md
+/Core/Authoring/Workspace/Local/
+/Core/Authoring/Formats/*/observed-*.json
+/Core/Authoring/Publish/
+
+# Credentials, caches, editor settings and operating-system files.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+._*
+Thumbs.db
+__pycache__/
+*.pyc
+.vscode/
+.idea/
