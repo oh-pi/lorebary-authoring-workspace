@@ -37,3 +37,7 @@ Keep new creative content and decisions in the set brief. Shared rules stay reus
 Check the selected field structure and embedded text separately. Parse JSON with a trusted parser, including nested JSON strings where appropriate. Replace all workspace editing slots such as `__NAME__`. Preserve native `{{user}}` / `{{char}}` tokens when the selected layout calls for them. Review numerical, boolean and metadata values; blank defaults are not necessarily correct for your asset.
 
 Distinguish downloadable JSON, complete text exports, and text intended for one field. Record what was checked and whether an import was actually attempted. Save backups before testing; never execute unreviewed plug-in code. A successful syntax check says nothing by itself about runtime behavior, content suitability or account safety.
+
+## Asset filenames
+
+Use `example_plugin.json`, `example_lorebook.json`, `example_scenario.json`, `example_character.json`, `example_persona.json`, and `example_prompt.json` for the corresponding generated asset categories. Use the same suffix before `.txt` for text or `.png` for properly packaged supported cards. Keep each delivery in a named Generated set folder. Do not rename your reference files merely to match this convention. Blank templates also include the category suffix; `.fragment.json` denotes a partial block/value, not a standalone import.
