@@ -1,6 +1,0 @@
-{
-  "type": "set_variable",
-  "variable": "__VARIABLE__",
-  "value": "__VALUE__",
-  "operation": "set"
-}

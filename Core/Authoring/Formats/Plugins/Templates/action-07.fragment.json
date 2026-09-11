@@ -1,6 +1,0 @@
-{
-  "type": "replace",
-  "find": "__FIND__",
-  "replace": "__REPLACE__",
-  "replaceTarget": "bot"
-}

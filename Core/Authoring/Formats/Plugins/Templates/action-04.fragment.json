@@ -1,8 +1,0 @@
-{
-  "type": "add_message",
-  "role": "user",
-  "append": true,
-  "pool": [
-    "__POOL__"
-  ]
-}
