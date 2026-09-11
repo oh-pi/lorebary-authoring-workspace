@@ -1,0 +1,47 @@
+{
+  "name": "__NAME__",
+  "author": "__AUTHOR__",
+  "description": "__DESCRIPTION__",
+  "category": "__CATEGORY__",
+  "content": "__CONTENT__",
+  "lorebooks": [],
+  "plugins": [],
+  "meta": {
+    "name": "__NAME__",
+    "author": "__AUTHOR__",
+    "category": "__CATEGORY__",
+    "description": "__DESCRIPTION__",
+    "tags": [
+      "__TAGS__"
+    ],
+    "public": false,
+    "allowDownloads": false,
+    "showDetails": false,
+    "coverImage": "__IMAGE_DATA_URI__",
+    "isNSFW": false,
+    "hasContentWarning": false,
+    "contentWarningDetails": "",
+    "contentWarnings": [],
+    "rules": {
+      "world": "__WORLD__",
+      "characters": "__CHARACTERS__",
+      "player": "__PLAYER__",
+      "narrative": "__NARRATIVE__",
+      "goals": "__GOALS__",
+      "boundaries": "__BOUNDARIES__"
+    },
+    "worldRules": "__WORLDRULES__",
+    "tone": "__TONE__",
+    "pov": "",
+    "createdAt": "__CREATEDAT__",
+    "updatedAt": "__UPDATEDAT__",
+    "lastChanges": {
+      "contentChanged": false,
+      "descriptionChanged": false,
+      "metaChanged": []
+    },
+    "downloadedAt": "__DOWNLOADEDAT__",
+    "source": "LoreBary",
+    "version": "1.0"
+  }
+}
