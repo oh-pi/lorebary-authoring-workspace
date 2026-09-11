@@ -1,0 +1,20 @@
+{
+  "uid": 1,
+  "key": [
+    "__KEY__"
+  ],
+  "keysecondary": [
+    "__KEYSECONDARY__"
+  ],
+  "comment": "",
+  "content": "__CONTENT__",
+  "instructions": "",
+  "constant": false,
+  "selective": false,
+  "disable": false,
+  "order": 95,
+  "category": "__CATEGORY__",
+  "keyMatchMode": "partial",
+  "chapterId": null,
+  "position": 0
+}
