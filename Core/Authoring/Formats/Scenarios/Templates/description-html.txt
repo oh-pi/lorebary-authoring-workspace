@@ -1,5 +1,0 @@
-<p>__TEXT__ <strong>__TEXT__</strong>__TEXT__ <span style="color: #c084fc">__TEXT__</span> __TEXT__</p>
-
-<p>__TEXT__ <em>__TEXT__</em> __TEXT__ <strong>__TEXT__</strong>__TEXT__</p>
-
-<p>__TEXT__ <span style="color: #34d399">__TEXT__</span> __TEXT__ <em style="color: #f472b6">__TEXT__</em> __TEXT__</p>
